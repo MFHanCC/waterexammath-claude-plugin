@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "waterexammath": {
+      "type": "http",
+      "url": "https://waterexammath.com/mcp"
+    }
+  }
+}

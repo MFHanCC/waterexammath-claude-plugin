@@ -1,0 +1,11 @@
+{
+  "name": "waterexammath",
+  "displayName": "WaterExamMath",
+  "version": "0.3.0",
+  "description": "Math practice for the California drinking water operator exams (T1-T3, D1-D3): one problem at a time with worked solutions, timed sets, progress by topic and a study plan.",
+  "author": {
+    "name": "Nyphex LLC",
+    "url": "https://waterexammath.com"
+  },
+  "license": "UNLICENSED"
+}
